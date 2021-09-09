@@ -1,1 +1,1 @@
-# Gusts_in_the_Headwind-Uncertainties_in_Direct_Dark_Matter_Detection-Supplementary
+A supplementary repository containing additional plots pertaining to the paper 'Gusts in the Headwind: Uncertainties in Direct Dark Matter Detection (Lawrence et al. 2021, submitted.)
